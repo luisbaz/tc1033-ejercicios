@@ -8,3 +8,4 @@ def run():
     for x in range(numero):
         print("Running")
 run()
+greet()
